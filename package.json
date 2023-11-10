@@ -1,0 +1,16 @@
+{
+  "name": "fetch_rewards_coding_exercise",
+  "version": "1.0.0",
+  "description": "Fetch Rewards Coding Exercise - Automate a balance scale for 9 gold bars and find the fake gold bar in minimum number of weighings for any possible fake bar position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rushikesh Khamkar",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.15.0"
+  }
+}
