@@ -1,6 +1,5 @@
 const { Builder, By, Key, until } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
-const { list } = require('mocha/lib/reporters');
 
 const webDriverName = 'chrome';
 const URL = 'http://sdetchallenge.fetch.com/';
