@@ -45,3 +45,5 @@ The solution uses a divide and conquer algorithm to identify the fake gold bar w
 * Clicking on the gold bar number at the bottom of the website and checking for the alert message.
 
 ## Screenshots
+
+https://github.com/Rushikesh1234/Fetch_Rewards_Coding_Exercise/assets/38386736/adde92ac-7904-4758-ad11-15c63f01cebd
